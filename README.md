@@ -1,7 +1,7 @@
 # microsoft-onedrive-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Microsoft OneDrive
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Microsoft OneDrive](https://www.cdata.com/drivers/onedrive/download/mcp/). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Microsoft OneDrive](https://www.cdata.com/drivers/onedrive/download/mcp/). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Microsoft OneDrive supported by the [CData JDBC Driver for Microsoft OneDrive](https://www.cdata.com/drivers/onedrive/jdbc/).
 
